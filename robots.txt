@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iholeeyah.avldsa.org/sitemap.xml
